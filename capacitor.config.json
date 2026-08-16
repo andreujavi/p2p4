@@ -1,5 +1,5 @@
 {
   "appId": "com.xavi.p2pmessenger",
   "appName": "P2PMessenger",
-  "webDir": "."
+  "webDir": "www"
 }
